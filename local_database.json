@@ -1,0 +1,319 @@
+[
+    {
+        "Name": "System",
+        "User": "NT AUTHORITY\\SYSTEM",
+        "Path": "",
+        "PIDs": [
+            4
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "Registry",
+        "User": null,
+        "Path": "Registry",
+        "PIDs": [
+            132
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "python.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+        "PIDs": [
+            980,
+            1816,
+            12312
+        ],
+        "Multiple_PIDs": true,
+        "None_User": false
+    },
+    {
+        "Name": "pet.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Users\\HP\\.vscode\\extensions\\ms-python.python-2024.22.0-win32-x64\\python-env-tools\\bin\\pet.exe",
+        "PIDs": [
+            1276
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "Discord.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Users\\HP\\AppData\\Local\\Discord\\app-1.0.9175\\Discord.exe",
+        "PIDs": [
+            1340,
+            2412,
+            7516,
+            7744,
+            8088,
+            9352,
+            9412,
+            10160,
+            11600,
+            12188
+        ],
+        "Multiple_PIDs": true,
+        "None_User": false
+    },
+    {
+        "Name": "esrv_svc.exe",
+        "User": null,
+        "Path": "C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\x64\\esrv_svc.exe",
+        "PIDs": [
+            1600
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "Code.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "PIDs": [
+            1676,
+            2976,
+            5848,
+            6072,
+            7356,
+            9160,
+            9280,
+            9596,
+            11192,
+            11356
+        ],
+        "Multiple_PIDs": true,
+        "None_User": false
+    },
+    {
+        "Name": "esrv.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\x64\\esrv.exe",
+        "PIDs": [
+            1696
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "NVDisplay.Container.exe",
+        "User": null,
+        "Path": "C:\\Program Files\\NVIDIA Corporation\\Display.NvContainer\\NVDisplay.Container.exe",
+        "PIDs": [
+            2076,
+            2380
+        ],
+        "Multiple_PIDs": true,
+        "None_User": true
+    },
+    {
+        "Name": "MemCompression",
+        "User": null,
+        "Path": "MemCompression",
+        "PIDs": [
+            2420
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "CodeSetup-stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f.tmp",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Users\\HP\\AppData\\Local\\Temp\\is-G0UKM.tmp\\CodeSetup-stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f.tmp",
+        "PIDs": [
+            3108
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "steam.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Program Files (x86)\\Steam\\steam.exe",
+        "PIDs": [
+            3436
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "DSAService.exe",
+        "User": null,
+        "Path": "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAService.exe",
+        "PIDs": [
+            3652
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "DSAUpdateService.exe",
+        "User": null,
+        "Path": "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAUpdateService.exe",
+        "PIDs": [
+            3660
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "warp-svc.exe",
+        "User": null,
+        "Path": "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\warp-svc.exe",
+        "PIDs": [
+            3680
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "armsvc.exe",
+        "User": null,
+        "Path": "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\armsvc.exe",
+        "PIDs": [
+            3712
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "OfficeClickToRun.exe",
+        "User": null,
+        "Path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe",
+        "PIDs": [
+            3728
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "MemuService.exe",
+        "User": null,
+        "Path": "C:\\Program Files\\Microvirt\\MEmu\\MemuService.exe",
+        "PIDs": [
+            3936
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "SurSvc.exe",
+        "User": null,
+        "Path": "C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\SurSvc.exe",
+        "PIDs": [
+            4084
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "RiotClientCrashHandler.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Riot Games\\Riot Client\\RiotClientCrashHandler.exe",
+        "PIDs": [
+            5348
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "steamwebhelper.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+        "PIDs": [
+            5560,
+            8384,
+            8696,
+            10340,
+            10864,
+            10944,
+            11244
+        ],
+        "Multiple_PIDs": true,
+        "None_User": false
+    },
+    {
+        "Name": "RiotClientServices.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe",
+        "PIDs": [
+            5684
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "BraveCrashHandler64.exe",
+        "User": null,
+        "Path": "C:\\Program Files (x86)\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler64.exe",
+        "PIDs": [
+            6088
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "BraveCrashHandler.exe",
+        "User": null,
+        "Path": "C:\\Program Files (x86)\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler.exe",
+        "PIDs": [
+            7092
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "steamservice.exe",
+        "User": null,
+        "Path": "C:\\Program Files (x86)\\Common Files\\Steam\\steamservice.exe",
+        "PIDs": [
+            8792
+        ],
+        "Multiple_PIDs": false,
+        "None_User": true
+    },
+    {
+        "Name": "vgtray.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Program Files\\Riot Vanguard\\vgtray.exe",
+        "PIDs": [
+            9296
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "DSATray.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSATray.exe",
+        "PIDs": [
+            9504
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "ONENOTEM.EXE",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTEM.EXE",
+        "PIDs": [
+            10512
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    },
+    {
+        "Name": "CodeSetup-stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f.exe",
+        "User": "SATOSHI\\HP",
+        "Path": "C:\\Users\\HP\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f.exe",
+        "PIDs": [
+            11840
+        ],
+        "Multiple_PIDs": false,
+        "None_User": false
+    }
+]

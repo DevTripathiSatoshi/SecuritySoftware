@@ -1,0 +1,110 @@
+[
+    {
+        "timestamp": "2024-12-29T23:23:52.927759",
+        "action": "Established Monitoring Microphone Access"
+    },
+    {
+        "timestamp": "2024-12-29T23:23:53.644322",
+        "action": "Blocked",
+        "process_name": "YouTube Music.exe",
+        "process_id": 6152
+    },
+    {
+        "timestamp": "2024-12-29T23:23:53.670363",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 2380
+    },
+    {
+        "timestamp": "2024-12-29T23:23:54.726730",
+        "action": "Blocked",
+        "process_name": "YouTube Music.exe",
+        "process_id": 6816
+    },
+    {
+        "timestamp": "2024-12-29T23:23:54.746012",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 7216
+    },
+    {
+        "timestamp": "2024-12-29T23:24:47.302481",
+        "action": "Blocked",
+        "process_name": "brave.exe",
+        "process_id": 848
+    },
+    {
+        "timestamp": "2024-12-29T23:24:48.342984",
+        "action": "Blocked",
+        "process_name": "brave.exe",
+        "process_id": 1696
+    },
+    {
+        "timestamp": "2024-12-29T23:24:49.364396",
+        "action": "Blocked",
+        "process_name": "brave.exe",
+        "process_id": 2000
+    },
+    {
+        "timestamp": "2025-01-04T22:19:55.579248",
+        "action": "Established Monitoring Microphone Access"
+    },
+    {
+        "timestamp": "2025-01-04T22:19:56.050473",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 5008
+    },
+    {
+        "timestamp": "2025-01-04T22:19:56.117292",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 6428
+    },
+    {
+        "timestamp": "2025-01-04T22:19:57.255174",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 9716
+    },
+    {
+        "timestamp": "2025-01-04T22:19:57.317148",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 10364
+    },
+    {
+        "timestamp": "2025-01-04T22:19:58.370656",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 10520
+    },
+    {
+        "timestamp": "2025-01-04T22:19:58.443584",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 10520
+    },
+    {
+        "timestamp": "2025-01-12T13:41:17.004328",
+        "action": "Established Monitoring Microphone Access"
+    },
+    {
+        "timestamp": "2025-01-12T13:41:17.054642",
+        "action": "Blocked",
+        "process_name": "obs64.exe",
+        "process_id": 12004
+    },
+    {
+        "timestamp": "2025-01-12T13:41:17.094242",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 1632
+    },
+    {
+        "timestamp": "2025-01-12T13:41:17.148918",
+        "action": "Blocked",
+        "process_name": "Discord.exe",
+        "process_id": 1632
+    }
+]
