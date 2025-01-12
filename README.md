@@ -13,19 +13,19 @@ This is a secuirty Software to check hidden and abnormal behaviour of applicatio
 Below are some screenshots of the project in action:
 
 ### **1. Main Window**  
-![Use](screenshots/S2.png)  
+![Use](Screenshots/S2.png)  
 
 ### **2. Network Usage Logs**  
-![Use](screenshots/I1.png)  
+![Use](Screenshots/I1.png)  
 
 ### **3. Background Application Logs**  
-![Use](screenshots/S3.png)  
+![Use](Screenshots/S3.png)  
 
 ### **4. Mic/Camera Indiator**  
-![Use](screenshots/indicator.png)  
+![Use](Screenshots/indicator.png)  
 
 ### **5 Console Example of Software forcefully turning of discord and obs for using mic**  
-![Use](screenshots/securityMicOff.png)  
+![Use](Screenshots/securityMicOff.png)  
 
 ---
 
