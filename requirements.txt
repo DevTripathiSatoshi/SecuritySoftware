@@ -1,0 +1,8 @@
+Pillow
+customtkinter
+importlib
+comtypes
+opencv-python
+psutil
+pycaw
+colorama
